@@ -1,0 +1,23 @@
+[{
+	"first_name": "mohammed",
+	"last_name": "burhan",
+	"photo": "https://www.bing.com/images/search?q=image&FORM=HDRSC2",
+	"department": "cse",
+	"research_area": ["data mining"],
+	"contact_details": "emailorphone_number"
+}, {
+	"first_name": "kunal",
+	"last_name": "vaid",
+	"photo": "https://www.bing.com/images/search?q=image&FORM=HDRSC2",
+	"department": "cse",
+	"research_area": ["php developer"],
+	"contact_details": "emailorphone_number"
+}, {
+	"first_name": "Rohit",
+	"last_name": "shetty",
+	"photo": "https://www.bing.com/images/search?q=image&FORM=HDRSC2",
+	"department": "cse",
+	"research_area": ["data analyst"],
+	"contact_details": "emailorphone_number"
+}]
+
